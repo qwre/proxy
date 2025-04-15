@@ -1,3 +1,3 @@
 function FindProxyForURL(url, host) {
-  return "HTTPS camcorders-automation-together-insight.trycloudflare.com:443";
+  return "HTTPS sells-known-sitting-istanbul.trycloudflare.com:443";
 }
