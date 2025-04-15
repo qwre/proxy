@@ -1,3 +1,3 @@
 function FindProxyForURL(url, host) {
-  return "HTTPS pro-thank-momentum-next.trycloudflare.com:443";
+  return "HTTPS camcorders-automation-together-insight.trycloudflare.com:443";
 }
