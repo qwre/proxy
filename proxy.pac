@@ -1,3 +1,3 @@
 function FindProxyForURL(url, host) {
-  return "HTTPS scales-concerned-continental-textbooks.trycloudflare.com:443";
+  return "HTTPS pro-thank-momentum-next.trycloudflare.com:443";
 }
